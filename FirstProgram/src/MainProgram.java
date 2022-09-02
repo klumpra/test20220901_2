@@ -6,5 +6,6 @@ public class MainProgram {
 		String name = "Ray";
 		double ans = x * y;
 		System.out.println("Ray says the answer is " + ans + ".");
+		System.out.println("How about that?");
 	}
 }
